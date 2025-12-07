@@ -1,0 +1,134 @@
+[
+  {
+    "position": 1,
+    "team": "Зенит",
+    "matches": 18,
+    "wins": 11,
+    "draws": 6,
+    "losses": 1,
+    "goals": "34-12",
+    "points": 39,
+    "pointsPercent": "72.2"
+  },
+  {
+    "position": 2,
+    "team": "Краснодар",
+    "matches": 17,
+    "wins": 11,
+    "draws": 4,
+    "losses": 2,
+    "goals": "34-10",
+    "points": 37,
+    "pointsPercent": "72.5"
+  },
+  {
+    "position": 3,
+    "team": "ЦСКА",
+    "matches": 17,
+    "wins": 11,
+    "draws": 3,
+    "losses": 3,
+    "goals": "28-14",
+    "points": 36,
+    "pointsPercent": "70.6"
+  },
+  {
+    "position": 4,
+    "team": "Локомотив М",
+    "matches": 17,
+    "wins": 9,
+    "draws": 7,
+    "losses": 1,
+    "goals": "35-21",
+    "points": 34,
+    "pointsPercent": "66.7"
+  },
+  {
+    "position": 5,
+    "team": "Балтика",
+    "matches": 17,
+    "wins": 8,
+    "draws": 8,
+    "losses": 1,
+    "goals": "22-7",
+    "points": 32,
+    "pointsPercent": "62.7"
+  },
+  {
+    "position": 6,
+    "team": "Спартак М",
+    "matches": 18,
+    "wins": 8,
+    "draws": 5,
+    "losses": 5,
+    "goals": "26-23",
+    "points": 29,
+    "pointsPercent": "53.7"
+  },
+  {
+    "position": 7,
+    "team": "Рубин",
+    "matches": 18,
+    "wins": 6,
+    "draws": 5,
+    "losses": 7,
+    "goals": "16-22",
+    "points": 23,
+    "pointsPercent": "42.6"
+  },
+  {
+    "position": 8,
+    "team": "Ахмат",
+    "matches": 18,
+    "wins": 6,
+    "draws": 4,
+    "losses": 8,
+    "goals": "22-25",
+    "points": 22,
+    "pointsPercent": "40.7"
+  },
+  {
+    "position": 9,
+    "team": "Акрон",
+    "matches": 18,
+    "wins": 5,
+    "draws": 6,
+    "losses": 7,
+    "goals": "22-26",
+    "points": 21,
+    "pointsPercent": "38.9"
+  },
+  {
+    "position": 10,
+    "team": "Динамо М",
+    "matches": 18,
+    "wins": 5,
+    "draws": 6,
+    "losses": 7,
+    "goals": "27-26",
+    "points": 21,
+    "pointsPercent": "38.9"
+  },
+  {
+    "position": 11,
+    "team": "Ростов",
+    "matches": 18,
+    "wins": 5,
+    "draws": 6,
+    "losses": 7,
+    "goals": "15-20",
+    "points": 21,
+    "pointsPercent": "38.9"
+  },
+  {
+    "position": 12,
+    "team": "Крылья Советов",
+    "matches": 17,
+    "wins": 4,
+    "draws": 5,
+    "losses": 8,
+    "goals": "20-31",
+    "points": 17,
+    "pointsPercent": "33.3"
+  }
+]
